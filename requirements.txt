@@ -1,0 +1,2 @@
+transformers==4.24.0
+speechbrain==0.5.13
