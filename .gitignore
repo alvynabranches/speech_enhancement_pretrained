@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Additional files and folders
 *models
 results
 *.mp3
